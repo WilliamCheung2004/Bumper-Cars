@@ -6,6 +6,7 @@ Starting instructions:
 3. Open the Freeglutexample.sln file
 4. Run the file - it should take a few seconds or more to load due to the models
 
+
 Bumper Cars Info
 Currently features includes:
 
@@ -14,6 +15,7 @@ Currently features includes:
 - Free Cam
 - Main Bumper Cars (The one you can ride)
 - Basic collision for cars and camera
+
 
 Controls:
 
@@ -28,6 +30,7 @@ Controls:
 
 * f - fullscreen mode
 * esc - exit program
+
 
 Please note - some aspects such as the collision of the bumpers may break when playing the bumper game due to a bug that has not been fixed, be sure to read the controls before starting, other than that enjoy this minimal bumper car game and thanks for checking out this project!
 
