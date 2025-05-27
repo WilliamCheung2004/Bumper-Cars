@@ -1,4 +1,5 @@
 # Simple Bumper Cars Game in OpenGL using GLUT - 
+A simple 3D bumper cars simulation built with OpenGL and GLUT. Drive a bumper car, explore the arena, and enjoy lighting effects and collision dynamics.
 
 ## Starting instructions:
 1. Download the zip file from [here](https://drive.google.com/file/d/1raFOiHgEf1FbrqpdGgbqAGtzlo0EReEj/view?usp=drive_link) and unzip
@@ -34,6 +35,9 @@
 
 ## Note
 Some aspects such as the collision of the bumpers may break when playing the bumper game due to a bug that has not been fixed, be sure to read the controls before starting, other than that enjoy this minimal bumper car game and thanks for checking out this project!
+
+## Credits
+Project by William Cheung
 
 
 
