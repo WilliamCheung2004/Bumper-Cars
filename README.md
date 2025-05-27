@@ -5,9 +5,9 @@ A simple 3D bumper cars simulation built with OpenGL and GLUT. Drive a bumper ca
 
 ## Starting instructions:
 1. Download the zip file from [here](https://drive.google.com/file/d/1raFOiHgEf1FbrqpdGgbqAGtzlo0EReEj/view?usp=drive_link) and unzip
-2. Then download Visual Studio Code or something that can run GLUT
-3. Open the Freeglutexample.sln file
-4. Run the file - it should take a few seconds or more to load due to the models
+2. I recommend using Visual Studio Code or any IDE that can supports GLUT
+3. Open and run the Freeglutexample.sln file
+
 ---
 
 ## Features
