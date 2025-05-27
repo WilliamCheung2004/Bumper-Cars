@@ -1,10 +1,10 @@
 Simple Bumper Cars Game in OpenGL using GLUT - 
 
 <<Starting instructions>>
-> Download the file and unzip if required
-> Also download Visual Studio Code or something that can run GLUT
-> Open the Freeglutexample.sln file 
-> Run the file - it should take a bit to load due to the models
+. Download the file and unzip if required
+. Also download Visual Studio Code or something that can run GLUT
+. Open the Freeglutexample.sln file 
+. Run the file - it should take a bit to load due to the models
 
 <<Bumper Info>>
 Currently this includes:
