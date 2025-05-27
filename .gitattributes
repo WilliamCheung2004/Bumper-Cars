@@ -1,0 +1,31 @@
+# Count C++ source and headers as C++
+*.cpp linguist-language=C++
+*.cxx linguist-language=C++
+*.cc linguist-language=C++
+*.h linguist-language=C++
+*.hpp linguist-language=C++
+
+# Count GLSL shaders correctly
+*.glsl linguist-language=GLSL
+*.vert linguist-language=GLSL
+*.frag linguist-language=GLSL
+
+# Ignore binaries and assets in language stats
+*.zip linguist-generated
+*.exe linguist-generated
+*.dll linguist-generated
+*.lib linguist-generated
+*.obj linguist-generated
+*.so linguist-generated
+*.png linguist-generated
+*.jpg linguist-generated
+*.jpeg linguist-generated
+*.bmp linguist-generated
+*.tga linguist-generated
+*.mp3 linguist-generated
+*.wav linguist-generated
+
+# Ignore build and IDE files
+/build/** linguist-generated
+/bin/** linguist-generated
+/.vscode/** linguist-generated
